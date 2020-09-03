@@ -1,0 +1,12 @@
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
+fastai
+GetOldTweets3
+pandas
+textblob
+wordcloud
+plotly.express
+ipywidgets
